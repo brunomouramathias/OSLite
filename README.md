@@ -183,6 +183,7 @@ A **navegabilidade bidirecional** entre `Cliente` e `OrdemDeServico` exigiu aten
 
 ## 👨‍💻 Autor
 
+BRUNO MOURA MATHIAS FERNANDES SIMÃO 
 Projeto desenvolvido como trabalho acadêmico de Programação Orientada a Objetos.
 
 ## 📄 Licença
